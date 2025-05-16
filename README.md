@@ -11,7 +11,7 @@ Task Schduler settings can be found in TaskScheduler_Settings.xml. See https://g
 Then run *Installer.bat* with Admin.
 
 ## Uninstall
-Uninstall by removing the Scheduled Task in Taskschedular and your Task Schedular folder.
+Uninstall by removing the scheduled task in Taskschedular and your Task Schedular folder.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
